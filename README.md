@@ -1,4 +1,4 @@
-#Hi i am majid akbari 👋🏻
+# **Hi i am majid akbari 👋🏻**
 
 <!--
 **majidoosski/majidoosski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
